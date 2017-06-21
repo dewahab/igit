@@ -18,7 +18,6 @@
     <![endif]-->
   </head>
   <body>
-<<<<<<< HEAD
     <h1 class="text-center">Welcome to the iGit (Main Heading Fixed as HF3)</h1>
 	
 	<h2 class="text-center">Feature 3 Heading</h2>

@@ -18,7 +18,9 @@
     <![endif]-->
   </head>
   <body>
-    <h1 class="text-center">Welcome to the GitHub (HotFix)</h1>
+    <h1 class="text-center">Welcome to the GitHub</h1>
+	
+	<h2 class="text-center">A Sub-Heading (HF1 - Dev2)</h2>
 	
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Item de contrariis, a quibus ad genera formasque generum venerunt. Si enim ad populum me vocas, eum. Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus; Ut optime, secundum naturam affectum esse possit. Bonum negas esse divitias, praeposìtum esse dicis? Quae quidem sapientes sequuntur duce natura tamquam videntes; Duo Reges: constructio interrete. Quamquam te quidem video minime esse deterritum. Quicquid porro animo cernimus, id omne oritur a sensibus; Cum audissem Antiochum, Brute, ut solebam, cum M.</p>
 	

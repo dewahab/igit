@@ -18,9 +18,10 @@
     <![endif]-->
   </head>
   <body>
-    <h1 class="text-center">Welcome to iGit</h1>
+<<<<<<< HEAD
+    <h1 class="text-center">Welcome to the iGit (Main Heading Fixed as HF3)</h1>
 	
-	<h2 class="text-center">A Sub-Heading (HF1 - Dev2)</h2>
+	<h2 class="text-center">Feature 3 Heading</h2>
 	
 	<h3 class="text-center">A Sub-Heading (HF3 - Dev1)</h3>
 	
@@ -32,5 +33,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
+	<script src="js/main.js"></script>
   </body>
 </html>
